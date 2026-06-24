@@ -9,5 +9,5 @@ docker build -t assignment16 .
 ## Run Docker Container
 
 ```bash
-docker run -p 8888:8888 -v ${PWD}:/workspace assignment16
+docker run -p 8080:8080 -v ${PWD}:/workspace assignment16
 ```
