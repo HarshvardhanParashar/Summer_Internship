@@ -1,0 +1,3 @@
+Initial Partitions: 12
+After Repartition(12): 12
+After Coalesce(3): 3
